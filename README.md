@@ -6,8 +6,8 @@ Battleships
 <table>
 <thead>
     <tr>
-        <td>Package</td>
-        <td>Status</td>
+        <th>Package</th>
+        <th>Status</th>
     </tr>
 </thead>
 <tbody>
@@ -18,14 +18,6 @@ Battleships
         <td>
             <a href ="https://travis-ci.org/ships-online/battleships-core"><img src="https://travis-ci.org/ships-online/battleships-core.svg?branch=master"></a>
             <a href ="https://lima.codeclimate.com/github/ships-online/battleships-core/coverage"><img src="https://lima.codeclimate.com/github/ships-online/battleships-core/badges/coverage.svg"></a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            battleships-dev-tools
-        </td>
-        <td>
-            <a href ="https://travis-ci.org/ships-online/battleships-dev-tools"><img src="https://travis-ci.org/ships-online/battleships-dev-tools.svg?branch=master"></a>
         </td>
     </tr>
     <tr>
@@ -53,6 +45,14 @@ Battleships
         <td>
             <a href ="https://travis-ci.org/ships-online/battleships-ui-vanilla"><img src="https://travis-ci.org/ships-online/battleships-ui-vanilla.svg?branch=master"></a>
             <a href ="https://lima.codeclimate.com/github/ships-online/battleships-ui-vanilla/coverage"><img src="https://lima.codeclimate.com/github/ships-online/battleships-ui-vanilla/badges/coverage.svg"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            battleships-dev-tools
+        </td>
+        <td>
+            <a href ="https://travis-ci.org/ships-online/battleships-dev-tools"><img src="https://travis-ci.org/ships-online/battleships-dev-tools.svg?branch=master"></a>
         </td>
     </tr>
 </tbody>
