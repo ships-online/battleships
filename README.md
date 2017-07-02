@@ -59,6 +59,14 @@ Battleships game is under heavy development and at the moment it's not possible 
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/ships-online/battleships-www">battleships-www</a>
+        </td>
+        <td>
+            <a href="https://travis-ci.org/ships-online/battleships-www"><img src="https://travis-ci.org/ships-online/battleships-www.svg?branch=master"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/ships-online/battleships-theme-wireframe">battleships-theme-wireframe</a>
         </td>
         <td>
