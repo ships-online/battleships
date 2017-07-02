@@ -63,6 +63,7 @@ Battleships game is under heavy development and at the moment it's not possible 
         </td>
         <td>
             <a href="https://travis-ci.org/ships-online/battleships-www"><img src="https://travis-ci.org/ships-online/battleships-www.svg?branch=master"></a>
+            <a href="https://lima.codeclimate.com/github/ships-online/battleships-www/coverage"><img src="https://lima.codeclimate.com/github/ships-online/battleships-www/badges/coverage.svg"></a>
         </td>
     </tr>
     <tr>
