@@ -51,19 +51,19 @@ Battleships game is under heavy development and at the moment it's not possible 
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/ships-online/battleships-dev-tools">battleships-dev-tools</a>
-        </td>
-        <td>
-            <a href="https://travis-ci.org/ships-online/battleships-dev-tools"><img src="https://travis-ci.org/ships-online/battleships-dev-tools.svg?branch=master"></a>
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://github.com/ships-online/battleships-www">battleships-www</a>
         </td>
         <td>
             <a href="https://travis-ci.org/ships-online/battleships-www"><img src="https://travis-ci.org/ships-online/battleships-www.svg?branch=master"></a>
             <a href="https://lima.codeclimate.com/github/ships-online/battleships-www/coverage"><img src="https://lima.codeclimate.com/github/ships-online/battleships-www/badges/coverage.svg"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/ships-online/battleships-dev-tools">battleships-dev-tools</a>
+        </td>
+        <td>
+            <a href="https://travis-ci.org/ships-online/battleships-dev-tools"><img src="https://travis-ci.org/ships-online/battleships-dev-tools.svg?branch=master"></a>
         </td>
     </tr>
     <tr>
