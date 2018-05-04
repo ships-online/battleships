@@ -42,11 +42,11 @@ Battleships game is under heavy development and at the moment it's not possible 
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/ships-online/battleships-ui-vanilla">battleships-ui-vanilla</a>
+            <a href="https://github.com/ships-online/battleships-ui-vue">battleships-ui-vue</a>
         </td>
         <td>
-            <a href="https://travis-ci.org/ships-online/battleships-ui-vanilla"><img src="https://travis-ci.org/ships-online/battleships-ui-vanilla.svg?branch=master"></a>
-            <a href="https://lima.codeclimate.com/github/ships-online/battleships-ui-vanilla/coverage"><img src="https://lima.codeclimate.com/github/ships-online/battleships-ui-vanilla/badges/coverage.svg"></a>
+            <a href="https://travis-ci.org/ships-online/battleships-ui-vue"><img src="https://travis-ci.org/ships-online/battleships-ui-vue.svg?branch=master"></a>
+            <a href="https://lima.codeclimate.com/github/ships-online/battleships-ui-vue/coverage"><img src="https://lima.codeclimate.com/github/ships-online/battleships-ui-vue/badges/coverage.svg"></a>
         </td>
     </tr>
     <tr>
@@ -68,7 +68,7 @@ Battleships game is under heavy development and at the moment it's not possible 
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/ships-online/battleships-theme-wireframe">battleships-theme-wireframe</a>
+            <a href="https://github.com/ships-online/battleships-theme">battleships-theme</a>
         </td>
         <td>
             &nbsp;
