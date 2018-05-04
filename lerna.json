@@ -1,0 +1,20 @@
+{
+  "lerna": "2.0.0-rc.1",
+  "packages": [
+    "packages/*",
+    "."
+  ],
+  "hoist": true,
+  "nohoist": [
+    "husky",
+    "battleships-core",
+    "battleships-engine",
+    "battleships-core",
+    "@ckeditor/ckeditor5-utils"
+  ],
+  "commands": {
+    "bootstrap": {
+      "concurrency": 1
+    }
+  }
+}

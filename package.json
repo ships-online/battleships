@@ -6,10 +6,24 @@
     "battleships",
     "game"
   ],
+  "scripts": {
+    "reinstall": "rm -rf packages && rm -rf node_modules && npm i && mgit bootstrap && lerna bootstrap"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ships-online/battleships.git"
   },
   "author": "Oskar Wróbel <kontakt@oskarwrobel.pl>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "battleships-core": "https://github.com/ships-online/battleships-core.git",
+    "battleships-dev-tools": "https://github.com/ships-online/battleships-dev-tools.git",
+    "battleships-engine": "https://github.com/ships-online/battleships-engine.git",
+    "battleships-server": "https://github.com/ships-online/battleships-server.git",
+    "battleships-theme": "https://github.com/ships-online/battleships-theme.git",
+    "battleships-ui-vue": "https://github.com/ships-online/battleships-ui-vue.git",
+    "battleships-www": "https://github.com/ships-online/battleships-www.git",
+    "lerna": "^2.11.0",
+    "mgit2": "^0.8.0"
+  }
 }
