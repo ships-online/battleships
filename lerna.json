@@ -7,9 +7,6 @@
   "hoist": true,
   "nohoist": [
     "husky",
-    "battleships-core",
-    "battleships-engine",
-    "battleships-core",
     "@ckeditor/ckeditor5-utils"
   ],
   "commands": {
