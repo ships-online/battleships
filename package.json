@@ -7,7 +7,9 @@
     "game"
   ],
   "scripts": {
-    "reinstall": "rm -rf packages && rm -rf node_modules && npm i && mgit bootstrap && lerna bootstrap"
+    "reinstall": "rm -rf packages && rm -rf node_modules && npm i && mgit bootstrap && lerna bootstrap",
+    "test": "battleships-test",
+    "test:all": "npm test -- -c -f packages/battleships-core/tests,packages/battleships-engine/tests"
   },
   "repository": {
     "type": "git",
