@@ -1,7 +1,9 @@
 Battleships
 ===========
 
-Battleships game is under heavy development and at the moment it's not possible to build and run the game.
+## Preview
+
+http://ships.oskarwrobel.pl
 
 ## Packages
 
