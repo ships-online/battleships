@@ -21,7 +21,7 @@ http://ships.oskarwrobel.pl
         </td>
         <td>
             <a href="https://travis-ci.org/ships-online/battleships-core"><img src="https://travis-ci.org/ships-online/battleships-core.svg?branch=master"></a>
-            <a href="https://lima.codeclimate.com/github/ships-online/battleships-core/coverage"><img src="https://lima.codeclimate.com/github/ships-online/battleships-core/badges/coverage.svg"></a>
+            <a href="https://codecov.io/gh/ships-online/battleships-core"><img src="https://codecov.io/gh/ships-online/battleships-core/branch/master/graph/badge.svg" /></a>
         </td>
     </tr>
     <tr>
