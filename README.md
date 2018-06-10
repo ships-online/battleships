@@ -57,7 +57,7 @@ http://ships.oskarwrobel.pl
         </td>
         <td>
             <a href="https://travis-ci.org/ships-online/battleships-www"><img src="https://travis-ci.org/ships-online/battleships-www.svg?branch=master"></a>
-            <a href="https://lima.codeclimate.com/github/ships-online/battleships-www/coverage"><img src="https://lima.codeclimate.com/github/ships-online/battleships-www/badges/coverage.svg"></a>
+            <a href="https://codecov.io/gh/ships-online/battleships-www"><img src="https://codecov.io/gh/ships-online/battleships-www/branch/master/graph/badge.svg" /></a>
         </td>
     </tr>
     <tr>
