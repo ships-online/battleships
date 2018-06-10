@@ -48,7 +48,7 @@ http://ships.oskarwrobel.pl
         </td>
         <td>
             <a href="https://travis-ci.org/ships-online/battleships-ui-vue"><img src="https://travis-ci.org/ships-online/battleships-ui-vue.svg?branch=master"></a>
-            <a href="https://lima.codeclimate.com/github/ships-online/battleships-ui-vue/coverage"><img src="https://lima.codeclimate.com/github/ships-online/battleships-ui-vue/badges/coverage.svg"></a>
+            <a href="https://codecov.io/gh/ships-online/battleships-ui-vue"><img src="https://codecov.io/gh/ships-online/battleships-ui-vue/branch/master/graph/badge.svg" /></a>
         </td>
     </tr>
     <tr>
