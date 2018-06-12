@@ -1,9 +1,7 @@
 Battleships
 ===========
 
-## Preview
-
-http://ships.oskarwrobel.pl
+http://www.ships-online.com
 
 ## Packages
 
